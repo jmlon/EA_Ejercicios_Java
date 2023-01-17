@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fecha",
+            "request": "launch",
+            "mainClass": "upb.ea.ea01_ADT.Fecha",
+            "projectName": "EA_Ejercicios_Java_79cc3f3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploBibliotecas",
+            "request": "launch",
+            "mainClass": "upb.ea.ea01_ADT.EjemploBibliotecas",
+            "projectName": "EA_Ejercicios_Java_79cc3f3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "EA_Ejercicios_Java_79cc3f3e"
+        },
+        {
+            "type": "java",
             "name": "Launch EjemploBibliotecas",
             "request": "launch",
             "mainClass": "upb.ea.ea01_ADT.EjemploBibliotecas",

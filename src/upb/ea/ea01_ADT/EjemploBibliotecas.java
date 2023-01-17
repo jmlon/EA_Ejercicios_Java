@@ -28,7 +28,7 @@ public class EjemploBibliotecas {
         for(int i=0; i<100; i++) {
             // datos[i] = StdRandom.gaussian(1.5, 0.5);
             // datos[i] = StdRandom.exp(1.5);
-            datos[i] = StdRandom.uniform(2.0,10.0);
+            datos[i] = StdRandom.uniform(2.0,10.0);         // TODO Arreglar metodo deprecado
             // datos[i] = StdRandom.geometric(0.2);
             // datos[i] = StdRandom.pareto(0.2);
         }

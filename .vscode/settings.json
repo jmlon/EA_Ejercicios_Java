@@ -1,7 +1,10 @@
 {
   "java.project.referencedLibraries": [
-    "lib/**/*.jar"
+    "lib/**/*.jar",
+    "/workspaces/EA_Ejercicios_Java/lib/algs4.jar"
   ],
-  "java.project.sourcePaths": [ "src" ],
+  "java.project.sourcePaths": [
+    "src"
+  ],
   "java.project.outputPath": "bin"
 }
